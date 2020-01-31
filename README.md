@@ -1,4 +1,4 @@
-# Run-Bıdık-Run
+# Run Bıdık Run
 Just a mini game.</br>
 ![GitHub manifest version](https://img.shields.io/badge/version-v0.21.13.4-blue) </br>
 Video:</br>
